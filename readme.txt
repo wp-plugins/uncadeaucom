@@ -34,7 +34,7 @@ En cas de problème n'hésitez pas à nous contacter : http://www.uncadeau.com/c
 
 == Changelog ==
 
-= 1.0 =
+= 1.1 =
 * Permettre l'affichage du module même si aucun numéro partenaire n'est entré
 
 = 1.0 =
