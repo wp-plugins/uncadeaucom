@@ -1,0 +1,9 @@
+#uncadeauWP ul.results-list{ list-style:none;}
+#uncadeauWP ul.results-list li{ list-style:none; width:32%; float:left; margin:0; padding:0;}
+#uncadeauWP ul.results-list li{ text-align:center; }
+#uncadeauWP ul.results-list li img{ width:100px; }
+
+/* Titre */ 
+#uncadeauWP ul.results-list li h2{ padding:0 10px; text-align:left; font-size:1.2em; font-weight:normal; margin-top:10px; height:2.5em; overflow:hidden;}
+/* Prix */
+#uncadeauWP ul.results-list li p.results-meta{ text-align:left; padding:0 10px; }
