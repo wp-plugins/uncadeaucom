@@ -35,7 +35,7 @@ function uncadeau_head(){
 			<script type="text/javascript">
 				$jq = jQuery.noConflict();
 				$jq(function(){
-					uncadeauWP.getLinked(<?php echo get_option("uncadeau_partnerID",0); ?>,"<?php echo $uncadeau[0]; ?>");
+					uncadeauWP.getLinked(<?php echo get_option("uncadeau_partnerID","0"); ?>,"<?php echo $uncadeau[0]; ?>");
 				});
 			</script>
 		<?php
