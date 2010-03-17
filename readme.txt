@@ -4,7 +4,7 @@ Donate link: http://grafikart.fr/
 Tags: Cadeau
 Requires at least: 2.8
 Tested up to: 2.8
-Stable tag: 1.1
+Stable tag: 1.0.1
 
 Ce Plugin permet d'afficher 3 produits issus de la base UnCadeau.com en dessous des articles
 
@@ -34,7 +34,7 @@ En cas de problème n'hésitez pas à nous contacter : http://www.uncadeau.com/c
 
 == Changelog ==
 
-= 1.1 =
+= 1.0.1 =
 * Permettre l'affichage du module même si aucun numéro partenaire n'est entré
 
 = 1.0 =
